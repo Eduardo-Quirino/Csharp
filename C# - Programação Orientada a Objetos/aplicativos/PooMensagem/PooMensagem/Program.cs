@@ -14,13 +14,13 @@ namespace PooMensagem
             Mensagem msg1, msg2;
 
             //PROCESSAMENTO
-            msg1 = new Mensagem();
-            msg1.TextoMensagem = "Olá, seja bem vindo!";
-            msg1.ExibirMensagem();
+            msg1 = new Mensagem();//objeto1
+            msg1.TextoMensagem = "Olá, seja bem vindo!\n";//instância
+            msg1.ExibirMensagem();//ação do objeto1
 
-            msg2 = new Mensagem();
-            msg2.TextoMensagem = "Segundo objeto";
-            msg2.ExibirMensagem();
+            msg2 = new Mensagem();//objeto2
+            msg2.TextoMensagem = "Segundo objeto";//instância
+            msg2.ExibirMensagem();//ação do objeto2
 
             //SAIDA
             Console.ReadKey();

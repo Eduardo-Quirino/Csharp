@@ -2,19 +2,68 @@
 
 ✔ [           C# POO - 01 O que é programação orientada a objetos         ](https://www.youtube.com/watch?v=qWDrDOyiLe8&list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU&index=1&t=29s) 
 
-✔ [           C# POO - 02 Minha Primeira Classe         ](https://www.youtube.com/watch?v=qxkus6YJP0g&list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU&index=4)
-
+>![](igm_Readme/o%20que%20%C3%A9%20%20programa%C3%A7%C3%A3o%20oo.png)
+>
+>![](igm_Readme/o%20que%20%C3%A9%20%20programa%C3%A7%C3%A3o%20oo_2.png)
+>
+>
+>
 >![pilares](igm_Readme/pilares.png)
 >
->![](igm_Readme/ClassexObjetos.png)
->
 >
 
+✔ [           C# POO - 02 Minha Primeira Classe         ](https://www.youtube.com/watch?v=qxkus6YJP0g&list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU&index=4)
 
+>  ![](igm_Readme/ClassexObjetos.png)
+>
+> > Exemplo:
+> >
+> > ```c#
+> > Program.cs 
+> > static void Main(string[] args)
+> >     {
+> >         //ENTRADAS
+> >         Mensagem msg1, msg2;
+> > 
+> >         //PROCESSAMENTO
+> >         msg1 = new Mensagem();//objeto1
+> >         msg1.TextoMensagem = "Olá, seja bem vindo!\n";//instância
+> >         msg1.ExibirMensagem();//ação do objeto1
+> > 
+> >         msg2 = new Mensagem();//objeto2
+> >         msg2.TextoMensagem = "Segundo objeto";//instância
+> >         msg2.ExibirMensagem();//ação do objeto2
+> > 
+> >         //SAIDA
+> >         Console.ReadKey();
+> >     }
+> > 
+> > Classe
+> > namespace PooMensagem
+> > {//< public > deixando objeto publico para ser usado em outra instância
+> >     public class Mensagem
+> >     {
+> > 
+> >        public String TextoMensagem;
+> >         
+> >        public void ExibirMensagem()//método exibir mensagem
+> >         {
+> >             Console.WriteLine(this.TextoMensagem);//this enterage com objeto
+> >         }
+> > 
+> >     }
+> > 
+> > ```
 
 
 
 [           C# POO - 03 Encapsulamento e métodos de acesso         ](https://www.youtube.com/watch?v=KhlJXXq90EA&list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU&index=5)
+
+![](igm_Readme/Encapsulamento.png)
+
+
+
+
 
 [           C# POO - 04 Propriedades no C# (Sharp)         ](https://www.youtube.com/watch?v=SKgOuvkjFOc&list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU&index=6)
 
