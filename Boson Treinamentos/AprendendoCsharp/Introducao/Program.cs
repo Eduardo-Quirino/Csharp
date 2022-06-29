@@ -11,6 +11,7 @@ namespace Introducao
         {
             //Declarações
             Console.WriteLine("Introdução C#!");//WriteLine (escreva na linha)
+            Console.ReadLine();//Console aberto até toque da tecla ENTER
 
         }
     }

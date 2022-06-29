@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\bin\Debug\Declaração e Atribuição de Variáveis.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\bin\Debug\Declaração e Atribuição de Variáveis.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\bin\Debug\Declaração e Atribuição de Variáveis.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\obj\Debug\Declaração e Atribuição de Variáveis.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\obj\Debug\Declaração e Atribuição de Variáveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\obj\Debug\Declaração e Atribuição de Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\obj\Debug\Declaração e Atribuição de Variáveis.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Declaração e Atribuição de Variáveis\obj\Debug\Declaração e Atribuição de Variáveis.pdb

@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\bin\Debug\PooMensagem.exe.config
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\bin\Debug\PooMensagem.exe
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\bin\Debug\PooMensagem.pdb
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\obj\Debug\PooMensagem.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\obj\Debug\PooMensagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\obj\Debug\PooMensagem.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\obj\Debug\PooMensagem.exe
+C:\Users\Eduardo Quirino\Documents\ESTUDOS\curso_programacao_csharp\C# - Programação Orientada a Objetos\aplicativos\PooMensagem\PooMensagem\obj\Debug\PooMensagem.pdb

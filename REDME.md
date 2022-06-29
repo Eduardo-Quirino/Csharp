@@ -33,8 +33,7 @@ SUMÁRIO :
 > <AULA  01 > Configuração IDE
 >
 > <AULA  02 > Estrutura de um programa básico e classe Console
+>
+> <AULA  03 > Declaração e Atribuição de Variáveis
 
 Material : http://www.bosontreinamentos.com.br/category/csharp/
-
-
-

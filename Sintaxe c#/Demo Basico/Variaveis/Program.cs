@@ -33,15 +33,15 @@ namespace Variaveis
             //Byte
             byte bMin = Byte.MinValue;
             byte bMax = Byte.MaxValue;
-            Console.WriteLine("Valor do bMin" + bMin);
             Console.WriteLine("Valor do bMax" + bMax);
 
+            Console.WriteLine("Valor do bMin" + bMin);
 
             Console.WriteLine("*** Fim do programa ***");
             Console.ReadKey();
              
             
-          
         }
     }
+          
 }

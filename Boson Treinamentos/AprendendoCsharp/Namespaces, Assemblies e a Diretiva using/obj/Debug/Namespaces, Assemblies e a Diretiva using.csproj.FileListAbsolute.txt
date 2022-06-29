@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\bin\Debug\Namespaces, Assemblies e a Diretiva using.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\bin\Debug\Namespaces, Assemblies e a Diretiva using.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\bin\Debug\Namespaces, Assemblies e a Diretiva using.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\obj\Debug\Namespaces, Assemblies e a Diretiva using.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\obj\Debug\Namespaces, Assemblies e a Diretiva using.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\obj\Debug\Namespaces, Assemblies e a Diretiva using.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\obj\Debug\Namespaces, Assemblies e a Diretiva using.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\Boson Treinamentos\AprendendoCsharp\Namespaces, Assemblies e a Diretiva using\obj\Debug\Namespaces, Assemblies e a Diretiva using.pdb
