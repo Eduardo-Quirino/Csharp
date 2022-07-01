@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\bin\Debug\Operadores e Operações.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\bin\Debug\Operadores e Operações.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\bin\Debug\Operadores e Operações.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\obj\Debug\Operadores e Operações.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\obj\Debug\Operadores e Operações.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\obj\Debug\Operadores e Operações.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\obj\Debug\Operadores e Operações.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operadores e Operações\obj\Debug\Operadores e Operações.pdb

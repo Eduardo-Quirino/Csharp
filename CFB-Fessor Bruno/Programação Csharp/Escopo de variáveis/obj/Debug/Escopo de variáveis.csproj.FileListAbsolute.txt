@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\bin\Debug\Escopo de variáveis.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\bin\Debug\Escopo de variáveis.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\bin\Debug\Escopo de variáveis.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\obj\Debug\Escopo de variáveis.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\obj\Debug\Escopo de variáveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\obj\Debug\Escopo de variáveis.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\obj\Debug\Escopo de variáveis.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Escopo de variáveis\obj\Debug\Escopo de variáveis.pdb
