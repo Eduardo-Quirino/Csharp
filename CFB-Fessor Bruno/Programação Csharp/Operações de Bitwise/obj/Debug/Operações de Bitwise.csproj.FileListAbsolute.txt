@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\bin\Debug\Operações de Bitwise.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\bin\Debug\Operações de Bitwise.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\bin\Debug\Operações de Bitwise.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\obj\Debug\Operações de Bitwise.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\obj\Debug\Operações de Bitwise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\obj\Debug\Operações de Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\obj\Debug\Operações de Bitwise.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Operações de Bitwise\obj\Debug\Operações de Bitwise.pdb

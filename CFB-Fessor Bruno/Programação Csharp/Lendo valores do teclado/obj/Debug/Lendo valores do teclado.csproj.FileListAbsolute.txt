@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\bin\Debug\Lendo valores do teclado.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\bin\Debug\Lendo valores do teclado.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\bin\Debug\Lendo valores do teclado.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\obj\Debug\Lendo valores do teclado.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\obj\Debug\Lendo valores do teclado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\obj\Debug\Lendo valores do teclado.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\obj\Debug\Lendo valores do teclado.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Lendo valores do teclado\obj\Debug\Lendo valores do teclado.pdb

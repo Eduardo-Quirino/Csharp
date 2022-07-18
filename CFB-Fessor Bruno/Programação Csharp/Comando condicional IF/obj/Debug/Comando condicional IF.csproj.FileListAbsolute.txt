@@ -1,0 +1,8 @@
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\bin\Debug\Comando condicional IF.exe.config
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\bin\Debug\Comando condicional IF.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\bin\Debug\Comando condicional IF.pdb
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\obj\Debug\Comando condicional IF.csproj.AssemblyReference.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\obj\Debug\Comando condicional IF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\obj\Debug\Comando condicional IF.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\obj\Debug\Comando condicional IF.exe
+C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Comando condicional IF\obj\Debug\Comando condicional IF.pdb
