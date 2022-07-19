@@ -37,6 +37,7 @@
 >
 > ✔ 4- [Escopo de variáveis - Curso Programação Completo C# - Aula 04](https://www.youtube.com/watch?v=1tsK4u4Hmck&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=6)
 >
+<<<<<<< HEAD
 > - Onde as variáveis são visíveis podendo ser local ou global.
 >
 >   > Exemplo: local
@@ -664,6 +665,9 @@
 > 20-[Loop WHILE / Estruturas de iteraão - Curso Programação Completo C# ](https://www.youtube.com/watch?v=8g-G1QT9hCk&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=22)
 >
 > 
+=======
+> 
+>>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
 
 
 
@@ -672,8 +676,6 @@
 ---
 
 ---
-
-
 
 [Curso de Programação com C#](https://www.youtube.com/watch?v=r2kEkCGrxZs&list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) Boson =>Treinamentos
 
@@ -691,13 +693,9 @@ Material : http://www.bosontreinamentos.com.br/category/csharp/
 
 ---
 
-
-
-
-
 > **Extra**
 >
 > *Lista de exercícios:* https://satellasoft.com/artigo/csharp/lista-de-exercicios-em-csharp
 >
-> *W3schol Tutorial C#:* https://www.w3schools.com/cs/index.php
+> *W3schol:* https://www.w3schools.com/cs/index.php
 

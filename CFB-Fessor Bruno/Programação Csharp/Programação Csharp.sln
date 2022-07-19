@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeiro programa no padrã
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variáveis", "Variáveis\Variáveis.csproj", "{0C6668F9-57C4-47A8-8E16-3ECD64B516DC}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo de variáveis", "Escopo de variáveis\Escopo de variáveis.csproj", "{19710067-9B99-47D9-BF59-7C0C80444F17}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores e Operações", "Operadores e Operações\Operadores e Operações.csproj", "{5F794055-2396-4D1C-8253-AFEA745CE69D}"
@@ -29,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comando condicional IF", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional IF-ELSE", "Condicional IF-ELSE\Condicional IF-ELSE.csproj", "{E512214E-E94D-48C5-8D6A-DA9189B42E58}"
 EndProject
+=======
+>>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +50,7 @@ Global
 		{0C6668F9-57C4-47A8-8E16-3ECD64B516DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C6668F9-57C4-47A8-8E16-3ECD64B516DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C6668F9-57C4-47A8-8E16-3ECD64B516DC}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{19710067-9B99-47D9-BF59-7C0C80444F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19710067-9B99-47D9-BF59-7C0C80444F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19710067-9B99-47D9-BF59-7C0C80444F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +91,8 @@ Global
 		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
