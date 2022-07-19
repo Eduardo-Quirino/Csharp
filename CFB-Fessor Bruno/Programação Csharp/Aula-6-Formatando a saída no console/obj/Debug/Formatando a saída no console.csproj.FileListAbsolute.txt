@@ -1,8 +1,0 @@
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\bin\Debug\Formatando a saída no console.exe.config
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\bin\Debug\Formatando a saída no console.exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\bin\Debug\Formatando a saída no console.pdb
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\obj\Debug\Formatando a saída no console.csproj.AssemblyReference.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\obj\Debug\Formatando a saída no console.csproj.SuggestedBindingRedirects.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\obj\Debug\Formatando a saída no console.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\obj\Debug\Formatando a saída no console.exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Formatando a saída no console\obj\Debug\Formatando a saída no console.pdb

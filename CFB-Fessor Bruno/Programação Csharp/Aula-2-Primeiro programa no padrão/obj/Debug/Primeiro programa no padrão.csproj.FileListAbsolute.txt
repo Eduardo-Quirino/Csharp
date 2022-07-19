@@ -1,8 +1,0 @@
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\bin\Debug\Primeiro programa no padrão.exe.config
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\bin\Debug\Primeiro programa no padrão.exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\bin\Debug\Primeiro programa no padrão.pdb
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\obj\Debug\Primeiro programa no padrão.csproj.AssemblyReference.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\obj\Debug\Primeiro programa no padrão.csproj.SuggestedBindingRedirects.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\obj\Debug\Primeiro programa no padrão.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\obj\Debug\Primeiro programa no padrão.exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Primeiro programa no padrão\obj\Debug\Primeiro programa no padrão.pdb

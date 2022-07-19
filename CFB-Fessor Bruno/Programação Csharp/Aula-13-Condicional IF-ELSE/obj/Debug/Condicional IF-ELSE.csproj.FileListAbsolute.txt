@@ -1,8 +1,0 @@
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\bin\Debug\Condicional IF-ELSE.exe.config
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\bin\Debug\Condicional IF-ELSE.exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\bin\Debug\Condicional IF-ELSE.pdb
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\obj\Debug\Condicional IF-ELSE.csproj.AssemblyReference.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\obj\Debug\Condicional IF-ELSE.csproj.SuggestedBindingRedirects.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\obj\Debug\Condicional IF-ELSE.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\obj\Debug\Condicional IF-ELSE.exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Condicional IF-ELSE\obj\Debug\Condicional IF-ELSE.pdb

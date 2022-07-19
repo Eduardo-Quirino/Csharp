@@ -1,8 +1,0 @@
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\bin\Debug\Conversões de tipos (typecast).exe.config
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\bin\Debug\Conversões de tipos (typecast).exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\bin\Debug\Conversões de tipos (typecast).pdb
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\obj\Debug\Conversões de tipos (typecast).csproj.AssemblyReference.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\obj\Debug\Conversões de tipos (typecast).csproj.SuggestedBindingRedirects.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\obj\Debug\Conversões de tipos (typecast).csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\obj\Debug\Conversões de tipos (typecast).exe
-C:\Users\Eduardo Quirino\Documents\GitHub\Csharp\CFB-Fessor Bruno\Programação Csharp\Conversões de tipos (typecast)\obj\Debug\Conversões de tipos (typecast).pdb
