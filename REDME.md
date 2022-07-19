@@ -35,8 +35,9 @@
 >   | decimal       | -79228162514264337593543950335..79228162514264337593543950335 |
 >   | char          | U+0000 .. U+ffff                                             |
 >
-> ✔ 4- [Escopo de variáveis - Curso Programação Completo C# - Aula 04](https://www.youtube.com/watch?v=1tsK4u4Hmck&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=6)
+> 4- [Escopo de variáveis - Curso Programação Completo C# - Aula 04](https://www.youtube.com/watch?v=1tsK4u4Hmck&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=6)
 >
+<<<<<<< HEAD
 > - Onde as variáveis são visíveis podendo ser local ou global.
 >
 >   > Exemplo: local
@@ -58,7 +59,7 @@
 >   > }
 >   > ```
 >
-> ✔ 5- [Operadores e Operações - Curso Programação Completo C# - Aula 05](https://www.youtube.com/watch?v=f8rDk6nJ9DE&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=7)
+> 5- [Operadores e Operações - Curso Programação Completo C# - Aula 05](https://www.youtube.com/watch?v=f8rDk6nJ9DE&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=7)
 >
 > ### Operadores Aritméticos
 >
@@ -101,7 +102,7 @@
 >
 > 
 >
-> ✔ 6- [Formatando a saída no console - Curso Programação Completo C# - Aula 06](https://www.youtube.com/watch?v=BVNhK3lQyww&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=8&t=316s)
+> 6- [Formatando a saída no console - Curso Programação Completo C# - Aula 06](https://www.youtube.com/watch?v=BVNhK3lQyww&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=8&t=316s)
 >
 > | Sequência Escape | Representação                             |
 > | ---------------- | ----------------------------------------- |
@@ -139,7 +140,7 @@
 >
 > 
 >
-> ✔ 7- [Constantes em C# - Curso Programação Completo C# - Aula 07](https://www.youtube.com/watch?v=y5M_9AfhLs4&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=9)
+> 7- [Constantes em C# - Curso Programação Completo C# - Aula 07](https://www.youtube.com/watch?v=y5M_9AfhLs4&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=9)
 >
 > - O valor de uma constante não pode ser alterado ao longo do programa.
 >
@@ -162,10 +163,12 @@
 >   >     }
 >   > ```
 >
-> 
+>   
 >
 >   8-[Lendo valores do teclado - Curso Programação Completo C# - Aula 08](https://www.youtube.com/watch?v=jKM9NjtihmU&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=10)
 >
+<<<<<<< HEAD
+<<<<<<< HEAD
 > 
 >
 > > **Exemplo:** 
@@ -583,7 +586,7 @@
 > > 
 > > ```
 >
-> 12-[Comando condicional IF - Curso Programação Completo C# - Aula ](https://www.youtube.com/watch?v=m_0y_k-sCcI&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=14)
+> 12-[Comando condicional IF - Curso Programação Completo C# ](https://www.youtube.com/watch?v=m_0y_k-sCcI&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=14)
 >
 > ### Operadores Aritméticos
 >
@@ -632,17 +635,55 @@
 > | **\|\|**            | OR = Ou       |
 > | **!**               | NOT = Não     |
 >
+> 13-[Condicional IF-ELSE - Curso Programação Completo C#](https://www.youtube.com/watch?v=Ojm98Gg1rVw&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=15)
+>
+> > **Estrutura de Condição:**
+> >
+> > ```csharp
+> > if (condição)
+> > {
+> >   // Código a ser executados caso a condição seja verdadeira
+> > } 
+> > else 
+> > {
+> >   // Código a ser executados caso a condição seja falsa
+> > }
+> > ```
+> >
+> > 
+>
+> 14-[IF aninhado - Curso Programação Completo C# ](https://www.youtube.com/watch?v=BR8_SLFAoaM&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=16)
+>
+> 15-[SWITCH case - Curso Programação Completo C# ](https://www.youtube.com/watch?v=dgEYyIAq-h4&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=17)
+>
+> 16-[Comando goto - Curso Programação Completo C# ](https://www.youtube.com/watch?v=uE8csfcJLFk&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=18)
+>
+> 17-[Array / Vetor - Curso Programação Completo C# ](https://www.youtube.com/watch?v=utkQHvmmJ38&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=19)
+>
+> 18-[Matrizes / Vetores Bidimensionais - Curso Programação Completo C# ](https://www.youtube.com/watch?v=-w2-rlMcKhw&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=20)
+>
+> 19-[Loop FOR / Estruturas de iteração - Curso Programação Completo C# ](https://www.youtube.com/watch?v=cG1VokOCoJA&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=21)
+>
+> 20-[Loop WHILE / Estruturas de iteraão - Curso Programação Completo C# ](https://www.youtube.com/watch?v=8g-G1QT9hCk&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=22)
+>
 > 
+=======
+> 
+>>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
 
 
+=======
+>   
+>>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
+=======
+>   
+>>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 
 
 
 ---
 
 ---
-
-
 
 [Curso de Programação com C#](https://www.youtube.com/watch?v=r2kEkCGrxZs&list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) Boson =>Treinamentos
 
@@ -660,13 +701,9 @@ Material : http://www.bosontreinamentos.com.br/category/csharp/
 
 ---
 
-
-
-
-
 > **Extra**
 >
 > *Lista de exercícios:* https://satellasoft.com/artigo/csharp/lista-de-exercicios-em-csharp
 >
-> *W3schol Tutorial C#:* https://www.w3schools.com/cs/index.php
+> *W3schol:* https://www.w3schools.com/cs/index.php
 
