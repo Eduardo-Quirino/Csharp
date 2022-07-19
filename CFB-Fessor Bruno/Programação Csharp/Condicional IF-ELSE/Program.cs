@@ -17,7 +17,6 @@ namespace Condicional_IF_ELSE
             //ENTRADA
             int n1, n2, n3, n4, res;
             n1 = n2 = n3 = n4 = 0;
-            string resultado = "Reprovado";
 
             //PROCESSAMENTO
             Console.WriteLine("Digite valor nota1: ");//pede valor da nota
@@ -37,6 +36,11 @@ namespace Condicional_IF_ELSE
             if ((res >= 60))
             {
                 resultado = "Aprovado";
+            }
+            else
+            {
+                resultado = "Reprovado";
+
             }
 
             //SAIDA
