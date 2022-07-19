@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversões de tipos (typec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comando condicional IF", "Comando condicional IF\Comando condicional IF.csproj", "{684E95CC-5BB0-4B8C-BEAC-4242FF72D462}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional IF-ELSE", "Condicional IF-ELSE\Condicional IF-ELSE.csproj", "{E512214E-E94D-48C5-8D6A-DA9189B42E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{684E95CC-5BB0-4B8C-BEAC-4242FF72D462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684E95CC-5BB0-4B8C-BEAC-4242FF72D462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684E95CC-5BB0-4B8C-BEAC-4242FF72D462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

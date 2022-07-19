@@ -17,7 +17,7 @@ namespace Comando_condicional_IF
           */
 
             //ENTRADA
-            int n1, n2, n3, n4, res;
+            int n1, n2, n3, n4, res;//variáveis
             n1 = n2 = n3 = n4 = 0;
             string resultado = "Reprovado";
 

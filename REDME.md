@@ -583,7 +583,7 @@
 > > 
 > > ```
 >
-> 12-[Comando condicional IF - Curso Programação Completo C# - Aula ](https://www.youtube.com/watch?v=m_0y_k-sCcI&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=14)
+> 12-[Comando condicional IF - Curso Programação Completo C# ](https://www.youtube.com/watch?v=m_0y_k-sCcI&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=14)
 >
 > ### Operadores Aritméticos
 >
@@ -631,6 +631,37 @@
 > | **&&**              | AND = E       |
 > | **\|\|**            | OR = Ou       |
 > | **!**               | NOT = Não     |
+>
+> 13-[Condicional IF-ELSE - Curso Programação Completo C#](https://www.youtube.com/watch?v=Ojm98Gg1rVw&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=15)
+>
+> > **Estrutura de Condição:**
+> >
+> > ```csharp
+> > if (condição)
+> > {
+> >   // Código a ser executados caso a condição seja verdadeira
+> > } 
+> > else 
+> > {
+> >   // Código a ser executados caso a condição seja falsa
+> > }
+> > ```
+> >
+> > 
+>
+> 14-[IF aninhado - Curso Programação Completo C# ](https://www.youtube.com/watch?v=BR8_SLFAoaM&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=16)
+>
+> 15-[SWITCH case - Curso Programação Completo C# ](https://www.youtube.com/watch?v=dgEYyIAq-h4&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=17)
+>
+> 16-[Comando goto - Curso Programação Completo C# ](https://www.youtube.com/watch?v=uE8csfcJLFk&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=18)
+>
+> 17-[Array / Vetor - Curso Programação Completo C# ](https://www.youtube.com/watch?v=utkQHvmmJ38&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=19)
+>
+> 18-[Matrizes / Vetores Bidimensionais - Curso Programação Completo C# ](https://www.youtube.com/watch?v=-w2-rlMcKhw&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=20)
+>
+> 19-[Loop FOR / Estruturas de iteração - Curso Programação Completo C# ](https://www.youtube.com/watch?v=cG1VokOCoJA&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=21)
+>
+> 20-[Loop WHILE / Estruturas de iteraão - Curso Programação Completo C# ](https://www.youtube.com/watch?v=8g-G1QT9hCk&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=22)
 >
 > 
 
