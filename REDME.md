@@ -168,6 +168,7 @@
 >   8-[Lendo valores do teclado - Curso Programação Completo C# - Aula 08](https://www.youtube.com/watch?v=jKM9NjtihmU&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=10)
 >
 <<<<<<< HEAD
+<<<<<<< HEAD
 > 
 >
 > > **Exemplo:** 
@@ -671,6 +672,9 @@
 >>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
 
 
+=======
+>   
+>>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 =======
 >   
 >>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)

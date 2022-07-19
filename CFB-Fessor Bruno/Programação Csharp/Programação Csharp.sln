@@ -19,6 +19,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{31C2233B-1971-42CC-A83B-9F52DEEE9436}"
 EndProject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lendo valores do teclado", "Lendo valores do teclado\Lendo valores do teclado.csproj", "{96019025-32E6-4A02-8BB3-8B09FCD9E1E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operações de Bitwise", "Operações de Bitwise\Operações de Bitwise.csproj", "{3E55697F-D2E0-4512-BE0E-61299A9FBA5D}"
@@ -33,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional IF-ELSE", "Cond
 EndProject
 =======
 >>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
+=======
+>>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 =======
 >>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 Global
@@ -71,6 +74,7 @@ Global
 		{31C2233B-1971-42CC-A83B-9F52DEEE9436}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31C2233B-1971-42CC-A83B-9F52DEEE9436}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{96019025-32E6-4A02-8BB3-8B09FCD9E1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96019025-32E6-4A02-8BB3-8B09FCD9E1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96019025-32E6-4A02-8BB3-8B09FCD9E1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -97,6 +101,8 @@ Global
 		{E512214E-E94D-48C5-8D6A-DA9189B42E58}.Release|Any CPU.Build.0 = Release|Any CPU
 =======
 >>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
+=======
+>>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 =======
 >>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 	EndGlobalSection
