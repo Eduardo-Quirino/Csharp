@@ -35,7 +35,7 @@
 >   | decimal       | -79228162514264337593543950335..79228162514264337593543950335 |
 >   | char          | U+0000 .. U+ffff                                             |
 >
-> ✔ 4- [Escopo de variáveis - Curso Programação Completo C# - Aula 04](https://www.youtube.com/watch?v=1tsK4u4Hmck&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=6)
+> 4- [Escopo de variáveis - Curso Programação Completo C# - Aula 04](https://www.youtube.com/watch?v=1tsK4u4Hmck&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=6)
 >
 <<<<<<< HEAD
 > - Onde as variáveis são visíveis podendo ser local ou global.
@@ -59,7 +59,7 @@
 >   > }
 >   > ```
 >
-> ✔ 5- [Operadores e Operações - Curso Programação Completo C# - Aula 05](https://www.youtube.com/watch?v=f8rDk6nJ9DE&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=7)
+> 5- [Operadores e Operações - Curso Programação Completo C# - Aula 05](https://www.youtube.com/watch?v=f8rDk6nJ9DE&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=7)
 >
 > ### Operadores Aritméticos
 >
@@ -102,7 +102,7 @@
 >
 > 
 >
-> ✔ 6- [Formatando a saída no console - Curso Programação Completo C# - Aula 06](https://www.youtube.com/watch?v=BVNhK3lQyww&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=8&t=316s)
+> 6- [Formatando a saída no console - Curso Programação Completo C# - Aula 06](https://www.youtube.com/watch?v=BVNhK3lQyww&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=8&t=316s)
 >
 > | Sequência Escape | Representação                             |
 > | ---------------- | ----------------------------------------- |
@@ -140,7 +140,7 @@
 >
 > 
 >
-> ✔ 7- [Constantes em C# - Curso Programação Completo C# - Aula 07](https://www.youtube.com/watch?v=y5M_9AfhLs4&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=9)
+> 7- [Constantes em C# - Curso Programação Completo C# - Aula 07](https://www.youtube.com/watch?v=y5M_9AfhLs4&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=9)
 >
 > - O valor de uma constante não pode ser alterado ao longo do programa.
 >
@@ -163,10 +163,11 @@
 >   >     }
 >   > ```
 >
-> 
+>   
 >
 >   8-[Lendo valores do teclado - Curso Programação Completo C# - Aula 08](https://www.youtube.com/watch?v=jKM9NjtihmU&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=10)
 >
+<<<<<<< HEAD
 > 
 >
 > > **Exemplo:** 
@@ -670,6 +671,9 @@
 >>>>>>> parent of 4ebf13d (Atualização aulas constantes, operadores,)
 
 
+=======
+>   
+>>>>>>> parent of 253afe3 (Atualização aulas 9,10,11,12)
 
 
 
